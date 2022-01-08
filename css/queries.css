@@ -137,7 +137,7 @@ instead 1rem = 1em = 16px
   }
 }
 @media (max-width: 44em) {
-  body .sticky .header{
+  .sticky #header{
     width:90%;
   }
   .grid--3-cols,
